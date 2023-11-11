@@ -4,5 +4,4 @@
   en la etapa de subir el código al repo remoto. 
 - Falta integrar el método de pago, que estamos probando.
 - El resto del trabajo propuesto sería en un supuesto de tener la página funcionando a futuro.
-- Para realizar el código nos basamos en los videos del profe Ariel subidos al campus, con el que hicimos el proyecto base, para la parte
-   del localhost (server) y el método de pago
+- Para realizar el código, la parte del localhost (server) nos basamos en los videos del profe Ariel subidos al campus, con el que hicimos el proyecto de clases
